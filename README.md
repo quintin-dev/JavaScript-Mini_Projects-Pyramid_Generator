@@ -8,7 +8,7 @@ The pyramid can be customized with different characters, row counts, and alignme
 
 ### Example Output
 
-[Pyramid Pattern Generator Output](\assets\output.png)
+![Pyramid Pattern Generator Output](\Assets\output.png)
 
 ## Features
 
