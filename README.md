@@ -30,4 +30,6 @@ The pyramid can be customized with different characters, row counts, and alignme
 
 ## Disclaimer
 
-This project is a standalone exercise for learning and practice purposes. Contributions are welcome to improve or extend the project.
+This project is part of the **JavaScript Algorithms and Data Structures Projects** on freeCodeCamp. The original project tutorial can be found [here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/).
+
+_Don't forget to star ⭐ this repo is you liked or found it useful_
